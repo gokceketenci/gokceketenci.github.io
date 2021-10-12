@@ -1,0 +1,26 @@
+@import url(http://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here);
+
+* { margin:0; padding: 0; }
+body {
+	font-family: 'Just Me Again Down Here', cursive;
+	background-color: #001623;
+	color: #ffffff;
+}
+a {
+	text-decoration: none;
+	color: #ffffff;
+}
+.container {
+	
+}
+.logo {
+	margin: 100px auto 0px auto;
+	width: 138px;
+	height: 231px;
+}
+.footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	text-align: center;
+}
